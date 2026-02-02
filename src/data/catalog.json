@@ -1,0 +1,2340 @@
+{
+  "meta": {
+    "currency": "USD",
+    "version": 2
+  },
+  "foods": [
+    {
+      "id": "2e0e94a4-6acd-4f80-a0b7-690b9c4595d5",
+      "name": "Chicken Biryani",
+      "cuisine": "Indian",
+      "country": "India",
+      "description": "Fragrant basmati rice with spiced chicken and aromatic herbs.",
+      "more_info": "A classic Indian rice dish, layered with marinated chicken, fragrant basmati, and spices like saffron, cardamom, and cloves. Traditionally cooked in a sealed pot to enhance flavor.",
+      "tags": [
+        "rice",
+        "spicy",
+        "indian",
+        "curry",
+        "chicken",
+        "aromatic"
+      ],
+      "imageUrl": "https://www.sidechef.com/recipe/6df5d24c-24a1-417a-b317-f83d949447fc.jpg?d=1408x1120",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "d19a0e59-8e52-4fcb-bf14-c6f0b21d3acc",
+      "name": "Butter Chicken",
+      "cuisine": "Indian",
+      "country": "India",
+      "description": "Creamy tomato curry with tender chicken and warm spices.",
+      "more_info": "Tender chicken simmered in a rich tomato and butter-based curry sauce with mild spices, making it creamy and comforting. Often served with naan or rice.",
+      "tags": [
+        "indian",
+        "curry",
+        "chicken",
+        "creamy",
+        "tomato"
+      ],
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.aCFjiRRgORf4UAWjFKtN5gHaHa?w=1024&h=1024&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "4f3a896b-7bbe-4017-bedb-36e8adf64f63",
+      "name": "Masala Dosa",
+      "cuisine": "Indian",
+      "country": "India",
+      "description": "Crispy rice-lentil crepe filled with spiced potato masala.",
+      "more_info": "A popular South Indian breakfast item, this thin, crispy crepe made from fermented rice and lentils is filled with a savory potato and spice mix, usually served with coconut chutney and sambar.",
+      "tags": [
+        "indian",
+        "vegetarian",
+        "lentil",
+        "spicy",
+        "crispy",
+        "rice",
+        "potato"
+      ],
+      "imageUrl": "https://www.cookwithmanali.com/wp-content/uploads/2020/05/Masala-Dosa.jpg",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "725ed627-8554-4ece-836b-a02200b929c4",
+      "name": "Samosa",
+      "cuisine": "Indian",
+      "country": "India",
+      "description": "Golden fried pastry with a savory spiced filling.",
+      "more_info": "A triangular, deep-fried pastry stuffed with spiced potatoes, peas, or meat. A popular Indian snack and street food.",
+      "tags": [
+        "indian",
+        "snack",
+        "vegetarian",
+        "fried",
+        "spicy"
+      ],
+      "imageUrl": "https://www.teaforturmeric.com/wp-content/uploads/2025/02/Keema-Samosa-05.jpg",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "171f54af-50b9-49df-a1a8-d5fc34338ae6",
+      "name": "Palak Paneer",
+      "cuisine": "Indian",
+      "country": "India",
+      "description": "Creamy spinach curry with soft paneer cheese cubes.",
+      "more_info": "Palak Paneer is a creamy curry made with spinach and soft cubes of paneer cheese. It's often served with naan or rice.",
+      "tags": [
+        "indian",
+        "vegetarian",
+        "curry",
+        "spinach",
+        "cheese"
+      ],
+      "imageUrl": "https://healthynibblesandbits.com/wp-content/uploads/2020/01/Saag-Paneer-FF.jpg",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "acf8f3b2-e3a5-431a-9568-419cc496f8b4",
+      "name": "Jollof Rice",
+      "cuisine": "West African",
+      "country": "Nigeria",
+      "description": "Tomato-pepper rice with deep, smoky flavor and gentle heat.",
+      "more_info": "A West African classic, Jollof rice is cooked with tomatoes, peppers, onions, and often seasoned with thyme and bay leaves. Can include meat or seafood.",
+      "tags": [
+        "rice",
+        "west_african",
+        "tomato",
+        "spicy",
+        "pepper"
+      ],
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.DNB2Fw6OQoADLCWWiTqqvAHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "7ab039a5-9c7e-4fc0-865a-ff73c4181928",
+      "name": "Suya",
+      "cuisine": "West African",
+      "country": "Nigeria",
+      "description": "Char-grilled skewers with a bold peanut-spice seasoning.",
+      "more_info": "A popular Nigerian street food of skewered beef, chicken, or goat, coated with a spicy peanut seasoning and grilled over open flames.",
+      "tags": [
+        "nigerian",
+        "street_food",
+        "beef",
+        "spicy",
+        "grilled",
+        "peanuts"
+      ],
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.6pzIGPzXRxh6YcbAhtBrmwHaFi?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "723f2cf9-2f7d-451f-a7de-7af7bb6b8695",
+      "name": "Egusi Soup",
+      "cuisine": "West African",
+      "country": "Nigeria",
+      "description": "Hearty melon-seed stew with rich flavor and comforting heat.",
+      "more_info": "A Nigerian stew made with ground melon seeds, leafy vegetables, and meat or fish. Thick, nutty, and rich in flavor, usually eaten with fufu or rice.",
+      "tags": [
+        "nigerian",
+        "soup",
+        "melon_seed",
+        "leafy",
+        "stew",
+        "spicy"
+      ],
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.lJ0m109S4F0U8ZavitZc1QHaD4?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "2e767fc8-7d2b-4627-bec5-d83bcba8b555",
+      "name": "Puff Puff",
+      "cuisine": "West African",
+      "country": "Nigeria",
+      "description": "Soft, sweet fried dough bites — perfect for sharing.",
+      "more_info": "A West African sweet snack made from deep-fried dough, light and fluffy inside, golden brown outside, often dusted with sugar.",
+      "tags": [
+        "west_african",
+        "dessert",
+        "fried",
+        "sweet",
+        "dough",
+        "snack"
+      ],
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.WicFGXfHXYE4my58QTvELAHaHb?w=997&h=1000&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "c1ee52b8-c13d-40b1-b694-a645380f65d1",
+      "name": "Pizza Margherita",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "description": "Classic tomato, mozzarella, and basil on a crisp crust.",
+      "more_info": "Traditional Italian pizza featuring a thin, crisp crust topped with tomato sauce, fresh mozzarella, and basil leaves. Iconic for its simplicity and balanced flavors.",
+      "tags": [
+        "italian",
+        "pizza",
+        "vegetarian",
+        "cheese",
+        "tomato",
+        "flour"
+      ],
+      "imageUrl": "https://th.bing.com/th/id/OIP.67HufXX0DvcQawQzK7VxgQHaH4?o=7rm=3&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "b78b7565-4d76-4bb1-853e-930140d20d4d",
+      "name": "Spaghetti Carbonara",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "description": "Silky egg-and-cheese sauce with pepper and crisp pancetta.",
+      "more_info": "Classic Roman pasta dish with a creamy egg, parmesan, and pecorino cheese sauce, tossed with crispy pancetta and black pepper.",
+      "tags": [
+        "italian",
+        "pasta",
+        "egg",
+        "cheese",
+        "pork"
+      ],
+      "imageUrl": "https://www.spendwithpennies.com/wp-content/uploads/2023/04/1200-Spaghetti-Carbonara-2-SpendWithPennies.jpg",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "183f6933-7049-4c85-ba36-19fabe900c39",
+      "name": "Lasagna",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "description": "Layered pasta baked with rich sauce and melted cheese.",
+      "more_info": "Baked Italian pasta dish with alternating layers of pasta sheets, meat or vegetables, tomato sauce, and cheese, creating a hearty and comforting meal.",
+      "tags": [
+        "italian",
+        "pasta",
+        "baked",
+        "cheese",
+        "meat"
+      ],
+      "imageUrl": "https://foodtasia.com/wp-content/uploads/2020/05/lasagna-11.jpg",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "e5b4a283-c601-4520-817d-cd9aeec6fd6c",
+      "name": "Tiramisu",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "description": "Coffee-soaked layers with mascarpone cream and cocoa.",
+      "more_info": "Famous Italian dessert of coffee-soaked ladyfingers layered with mascarpone cream and dusted with cocoa powder for a light yet decadent treat.",
+      "tags": [
+        "italian",
+        "dessert",
+        "coffee",
+        "cream",
+        "cocoa",
+        "sweet"
+      ],
+      "imageUrl": "https://www.wellseasonedstudio.com/wp-content/uploads/2023/11/Italian-tiramisu-on-a-plate-with-cocoa-powder-and-chocolate-shavings.jpg",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "2dc32ad3-d787-461e-bfbc-678b12b394e7",
+      "name": "Mushroom Risotto",
+      "cuisine": "Italian",
+      "country": "Italy",
+      "description": "Creamy arborio rice with wild mushrooms and parmesan.",
+      "more_info": "Italian risotto made from slow-cooked arborio rice in stock, finished with butter, parmesan, and earthy mushrooms for a rich, creamy texture.",
+      "tags": [
+        "italian",
+        "rice",
+        "vegetarian",
+        "mushroom",
+        "creamy"
+      ],
+      "imageUrl": "https://th.bing.com/th/id/R.e99fd54988483f6df4bb197adff32db7?rik=GkdpIEfdx2tCSg&pid=ImgRaw&r=0",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "88016e17-ad66-4bc3-af68-73e5424609d2",
+      "name": "Sushi Platter",
+      "cuisine": "Japanese",
+      "country": "Japan",
+      "description": "A variety of nigiri and rolls with wasabi and soy sauce.",
+      "more_info": "Japanese dish of bite-sized rice and seafood combinations, including raw fish (sashimi) and rolls, served with soy sauce, pickled ginger, and wasabi.",
+      "tags": [
+        "japanese",
+        "seafood",
+        "rice",
+        "raw",
+        "soy_sauce"
+      ],
+      "imageUrl": "https://th.bing.com/th/id/R.a8a5c117bf660371c63db076a56bcaef?rik=gXtCqnakNujmNA&pid=ImgRaw&r=0",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "fe972da1-adce-4c90-b270-54d6d980561f",
+      "name": "Miso Ramen",
+      "cuisine": "Japanese",
+      "country": "Japan",
+      "description": "Warm miso broth with noodles and savory toppings.",
+      "more_info": "Japanese noodle soup with miso-flavored broth, topped with vegetables, meat, and sometimes egg. Savory, umami-rich, and comforting.",
+      "tags": [
+        "japanese",
+        "noodles",
+        "soup",
+        "umami"
+      ],
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.-KldF8Cwju6oY8J1crHpJwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "86278356-7a53-4fec-96ef-21d7329d17a6",
+      "name": "Chicken Teriyaki Bowl",
+      "cuisine": "Japanese",
+      "country": "Japan",
+      "description": "Sweet-savory glazed chicken served over steamed rice.",
+      "more_info": "Japanese rice bowl topped with tender chicken glazed in sweet-savory teriyaki sauce, often garnished with sesame seeds and green onions.",
+      "tags": [
+        "japanese",
+        "chicken",
+        "sweet",
+        "savory",
+        "rice"
+      ],
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.0UiYgU8FDH4ATgLuA_tppQHaKs?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "a2482afc-5ae0-4d98-af37-f34288dbeeed",
+      "name": "Tempura",
+      "cuisine": "Japanese",
+      "country": "Japan",
+      "description": "Light and crispy battered seafood and vegetables.",
+      "more_info": "Japanese dish of seafood or vegetables lightly battered and deep-fried to a delicate crisp, served with dipping sauce.",
+      "tags": [
+        "japanese",
+        "fried",
+        "seafood",
+        "crispy",
+        "vegetables"
+      ],
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.5LrUzbe3x5_DGI9h_FiFLAHaLH?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "de28e67c-6392-4a87-a99e-90506f005113",
+      "name": "Pad Thai",
+      "cuisine": "Thai",
+      "country": "Thailand",
+      "description": "Stir-fried rice noodles with tangy tamarind and crushed peanuts.",
+      "more_info": "Pad Thai is a popular Thai dish made with stir-fried rice noodles, tangy tamarind sauce, and crushed peanuts. It's often served with lime wedges and bean sprouts.",
+      "tags": [
+        "thai",
+        "noodles",
+        "stir_fry",
+        "peanuts",
+        "tamarind"
+      ],
+      "imageUrl": "https://www.cookingclassy.com/wp-content/uploads/2019/03/pad-thai-6.jpg",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "957bf6dd-2566-4ef9-b525-9de6845b63eb",
+      "name": "Thai Green Curry",
+      "cuisine": "Thai",
+      "country": "Thailand",
+      "description": "Coconut green curry with herbs and a fragrant kick.",
+      "more_info": "Thai Green Curry is a flavorful curry made with coconut milk, green curry paste, and a variety of herbs and vegetables. It has a fragrant kick and is often served with rice.",
+      "tags": [
+        "thai",
+        "curry",
+        "coconut",
+        "spicy",
+        "herbs"
+      ],
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.8R7U2oPMvnB5rgbga_XSSwHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "0838fe98-f8c2-4ab7-ba4e-40451ec9bd3b",
+      "name": "Tom Yum Soup",
+      "cuisine": "Thai",
+      "country": "Thailand",
+      "description": "Hot and sour soup with lemongrass, shrimp, and chili.",
+      "more_info": "Tom Yum Soup is a flavorful Thai soup made with lemongrass, shrimp, and chili. It has a fragrant kick and is often served with rice.",
+      "tags": [
+        "thai",
+        "soup",
+        "spicy",
+        "sour",
+        "seafood"
+      ],
+      "imageUrl": "https://www.recipetineats.com/tachyon/2019/09/Tom-Yum-soup_2.jpg?resize=900%2C1125&zoom=0.72",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "fa3ebf28-ebcd-447f-aac9-9af7e879d526",
+      "name": "Falafel",
+      "cuisine": "Middle Eastern",
+      "country": "Lebanon",
+      "description": "Crispy chickpea fritters with herbs and warm spices.",
+      "more_info": "Falafel is a popular Middle Eastern dish made with crispy chickpea fritters seasoned with herbs and warm spices. It's often served in pita bread with tahini sauce.",
+      "tags": [
+        "middle_eastern",
+        "vegetarian",
+        "chickpea",
+        "fried",
+        "herbs",
+        "crispy"
+      ],
+      "imageUrl": "https://th.bing.com/th/id/R.78f89ef59f36eddaf06aeee834c9b112?rik=td29W6Y0iBSjWw&pid=ImgRaw&r=0",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "3c9caa5a-0827-4389-abf2-abe40702e0e7",
+      "name": "Chicken Shawarma Wrap",
+      "cuisine": "Middle Eastern",
+      "country": "Lebanon",
+      "description": "Juicy chicken, pickles, and garlic sauce in warm flatbread.",
+      "more_info": "Marinated chicken cooked on a vertical spit, sliced, and wrapped in flatbread with garlic sauce, pickles, and vegetables. A popular Middle Eastern street food.",
+      "tags": [
+        "middle_eastern",
+        "street_food",
+        "chicken",
+        "wrap",
+        "garlic"
+      ],
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.UVDicTSqK6sU8enzFa7IvQHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "1b334ac5-4d7e-41ed-b87d-5eada9626f0d",
+      "name": "Hummus Plate",
+      "cuisine": "Middle Eastern",
+      "country": "Lebanon",
+      "description": "Smooth chickpea dip with tahini, lemon, and olive oil.",
+      "more_info": "Classic Middle Eastern dip made from blended chickpeas, tahini, olive oil, lemon juice, and garlic. Often served with pita bread or vegetables.",
+      "tags": [
+        "middle_eastern",
+        "vegetarian",
+        "chickpea",
+        "dip"
+      ],
+      "imageUrl": "https://i0.wp.com/www.pepperdelight.com/wp-content/uploads/2017/12/pepper-delight-hummus-4.jpg?resize=1718%2C2036",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "b2b08ada-d482-4534-af97-644a91a2d063",
+      "name": "Cheeseburger",
+      "cuisine": "American",
+      "country": "United States",
+      "description": "Grilled beef patty with cheese, pickles, and house sauce.",
+      "more_info": "A Cheeseburger is a classic American dish made with a grilled beef patty, cheese, pickles, and house sauce on a bun. It's often served with fries or a side salad.",
+      "tags": [
+        "american",
+        "burger",
+        "beef",
+        "cheese",
+        "bun",
+        "grilled",
+        "pickles"
+      ],
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.7qc8sbej8hthhMR82H68FQHaHa?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "82bd801e-8628-4b46-b8fb-b761c0f46dfa",
+      "name": "Classic Hot Dog",
+      "cuisine": "American",
+      "country": "United States",
+      "description": "Grilled frankfurter in a soft bun with classic toppings.",
+      "more_info": "A Classic Hot Dog is a popular American fast food made with a grilled frankfurter in a soft bun, topped with classic condiments like mustard, ketchup, and relish.",
+      "tags": [
+        "american",
+        "fast_food",
+        "sausage",
+        "street_food",
+        "grilled"
+      ],
+      "imageUrl": "https://th.bing.com/th/id/R.491cc8f9ab6fa4a0e4b10b4db4830591?rik=Ya7%2fnFZxiyXZFg&pid=ImgRaw&r=0",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "d57cec36-2b84-469e-b683-dea6e3a09efe",
+      "name": "Tacos al Pastor",
+      "cuisine": "Mexican",
+      "country": "Mexico",
+      "description": "Marinated pork shaved from the spit with bright toppings.",
+      "more_info": "Tacos al Pastor is a popular Mexican dish made with marinated pork shaved from a spit, served with bright toppings like pineapple, onions, and cilantro.",
+      "tags": [
+        "mexican",
+        "tacos",
+        "pork",
+        "spicy",
+        "pineapple"
+      ],
+      "imageUrl": "https://th.bing.com/th?id=OIF.Eaz8L1GmH9b%2ftYuDphEE7w&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "6d9a339c-445a-4330-be1a-270f804e2e81",
+      "name": "Guacamole & Chips",
+      "cuisine": "Mexican",
+      "country": "Mexico",
+      "description": "Fresh avocado dip with lime, cilantro, and tortilla chips.",
+      "more_info": "Guacamole & Chips is a popular Mexican snack made with fresh avocado dip seasoned with lime, cilantro, and served with tortilla chips.",
+      "tags": [
+        "mexican",
+        "vegetarian",
+        "avocado",
+        "dip",
+        "snack"
+      ],
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.emimvkO2puwR-PUjg4nuNgHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "e626230f-379c-476f-9170-a53f32585ac3",
+      "name": "Seafood Paella",
+      "cuisine": "Spanish",
+      "country": "Spain",
+      "description": "Saffron rice with seafood and Mediterranean flavor.",
+      "more_info": "Seafood Paella is a classic Spanish dish made with saffron rice, a variety of seafood, and Mediterranean flavors. It's often served with lemon wedges.",
+      "tags": [
+        "spanish",
+        "rice",
+        "seafood",
+        "saffron"
+      ],
+      "imageUrl": "https://th.bing.com/th/id/R.ff90c9773a63817c70ba170e72496aab?rik=nHiJ89cuzxC3rg&pid=ImgRaw&r=0",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "624d3d18-e61f-4d89-a52d-db6add8a3577",
+      "name": "Tapas Platter",
+      "cuisine": "Spanish",
+      "country": "Spain",
+      "description": "Assorted Spanish small plates with olives, cheese, and meats.",
+      "more_info": "A Tapas Platter is a selection of assorted Spanish small plates featuring olives, cheese, and meats. It's perfect for sharing and exploring different flavors.",
+      "tags": [
+        "spanish",
+        "appetizer",
+        "cheese",
+        "variety",
+        "assorted",
+        "olives"
+      ],
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.oTlXdZ0sjdeCGLHRdWmV2gHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "c0c037ae-57d5-4447-a30f-c63a97ccc450",
+      "name": "Kung Pao Chicken",
+      "cuisine": "Chinese",
+      "country": "China",
+      "description": "Stir-fried chicken with peanuts, chili, and a savory glaze.",
+      "more_info": "Kung Pao Chicken is a popular Chinese dish made with stir-fried chicken, peanuts, chili, and a savory glaze. It's often served with rice.",
+      "tags": [
+        "chinese",
+        "spicy",
+        "chicken",
+        "peanuts",
+        "stir_fry",
+        "savory"
+      ],
+      "imageUrl": "https://th.bing.com/th/id/R.24e21b08f732e96dcf57a19a96a4737c?rik=RVazgsY9FUfszg&pid=ImgRaw&r=0",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "135dc106-85c9-4d09-b39e-746037d328f7",
+      "name": "Dim Sum Basket",
+      "cuisine": "Chinese",
+      "country": "China",
+      "description": "Steamed dumplings filled with pork and shrimp.",
+      "more_info": "A Dim Sum Basket is a selection of steamed dumplings filled with pork and shrimp. It's a popular choice for dim sum brunch.",
+      "tags": [
+        "chinese",
+        "dumpling",
+        "steamed",
+        "pork",
+        "seafood"
+      ],
+      "imageUrl": "https://th.bing.com/th/id/R.d8cb025980bc93bd553e85726d0b20af?rik=t7pBPBiVdXr7wQ&pid=ImgRaw&r=0",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "ca6c9bd2-619c-4481-a9b4-868df7c7b0e3",
+      "name": "Bibimbap",
+      "cuisine": "Korean",
+      "country": "South Korea",
+      "description": "Warm rice bowl with vegetables, egg, and gochujang.",
+      "more_info": "Bibimbap is a Korean dish made with a warm rice bowl topped with vegetables, egg, and gochujang (a spicy red pepper paste). It's often mixed together before eating.",
+      "tags": [
+        "korean",
+        "rice",
+        "vegetables",
+        "egg",
+        "spicy"
+      ],
+      "imageUrl": "https://cdn.loveandlemons.com/wp-content/uploads/2020/03/bibimbap-recipe.jpg",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "2931d97e-8da0-4f79-a2f7-d687608e3587",
+      "name": "Kimchi",
+      "cuisine": "Korean",
+      "country": "South Korea",
+      "description": "Fermented spicy cabbage with bold, tangy flavor.",
+      "more_info": "Kimchi is a traditional Korean side dish made with fermented spicy cabbage. It has a bold, tangy flavor and is often served with rice and other dishes.",
+      "tags": [
+        "korean",
+        "vegetarian",
+        "fermented",
+        "spicy",
+        "cabbage"
+      ],
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.gSAlYAsD60hPHRlwY0Y77wHaF2?rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "65d7ce6d-ee92-49c3-b874-613461ca0764",
+      "name": "Croissant",
+      "cuisine": "French",
+      "country": "France",
+      "description": "Buttery, flaky pastry fresh from the oven.",
+      "more_info": "A Croissant is a buttery, flaky pastry that is fresh from the oven. It's a popular breakfast item and is often served with coffee or tea.",
+      "tags": [
+        "french",
+        "pastry",
+        "breakfast",
+        "butter",
+        "vegetarian"
+      ],
+      "imageUrl": "https://th.bing.com/th/id/R.7f827d386b825c8b03371b9236b2b6d1?rik=tSiVZTblyzNhCg&pid=ImgRaw&r=0",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "741abb2e-dedd-4edc-8a6e-014c5b603002",
+      "name": "Ratatouille",
+      "cuisine": "French",
+      "country": "France",
+      "description": "Provençal stewed vegetables in rich tomato sauce.",
+      "more_info": "Ratatouille is a classic French dish made with Provençal stewed vegetables in a rich tomato sauce. It's often served as a side dish or main course.",
+      "tags": [
+        "french",
+        "vegetarian",
+        "vegetables",
+        "stew",
+        "tomato"
+      ],
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.oMDi_ZJNkOdTD3mOi2bY-AHaFj?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "36de7d5d-9825-40c9-a963-52a570fd2463",
+      "name": "Crème Brûlée",
+      "cuisine": "French",
+      "country": "France",
+      "description": "Vanilla custard with caramelized sugar crust.",
+      "more_info": "Crème Brûlée is a classic French dessert made with vanilla custard topped with a caramelized sugar crust. It's a rich and indulgent treat.",
+      "tags": [
+        "french",
+        "dessert",
+        "custard",
+        "sweet",
+        "vanilla"
+      ],
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.uh92WBo6AnrEcVmF8aXkIQHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "ce1dad02-c3e3-4d3f-9b6e-5ea60fa1531f",
+      "name": "Coq au Vin",
+      "cuisine": "French",
+      "country": "France",
+      "description": "Chicken braised in red wine with mushrooms and onions.",
+      "more_info": "Coq au Vin is a classic French dish made with chicken braised in red wine with mushrooms and onions. It's a rich and flavorful stew.",
+      "tags": [
+        "french",
+        "chicken",
+        "wine",
+        "stew",
+        "mushroom"
+      ],
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.puwS8EAwZi64M1Rz89SG4AHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "f5c94a15-eefa-41b6-9542-c72140de76dc",
+      "name": "Pho",
+      "cuisine": "Vietnamese",
+      "country": "Vietnam",
+      "description": "Aromatic beef noodle soup with fresh herbs.",
+      "more_info": "Pho is a classic Vietnamese dish made with aromatic beef noodle soup and fresh herbs. It's often served with lime wedges and bean sprouts.",
+      "tags": [
+        "vietnamese",
+        "soup",
+        "noodles",
+        "beef",
+        "herbs",
+        "aromatic"
+      ],
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP._lZ8yJZlxmhL1M86-VG8DwHaD3?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "385abd19-1e0b-4202-b572-fd9c0ba9d551",
+      "name": "Banh Mi",
+      "cuisine": "Vietnamese",
+      "country": "Vietnam",
+      "description": "Crispy baguette with savory pork, pickles, and cilantro.",
+      "more_info": "Banh Mi is a popular Vietnamese sandwich made with a crispy baguette filled with savory pork, pickles, and cilantro. It's often served with a side of spicy mayo.",
+      "tags": [
+        "vietnamese",
+        "sandwich",
+        "pork",
+        "street_food",
+        "crispy"
+      ],
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.VOdALvfLLeknjEM4J4N5nQHaFj?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "80ad8d9c-22a3-4b65-b555-4bd82c3584c2",
+      "name": "Fresh Spring Rolls",
+      "cuisine": "Vietnamese",
+      "country": "Vietnam",
+      "description": "Rice paper rolls filled with herbs, shrimp, and vermicelli.",
+      "more_info": "Fresh Spring Rolls are a popular Vietnamese dish made with rice paper rolls filled with herbs, shrimp, and vermicelli. They're often served with a peanut dipping sauce.",
+      "tags": [
+        "vietnamese",
+        "fresh",
+        "seafood",
+        "healthy",
+        "rice_paper",
+        "herbs"
+      ],
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.6E49au2gHAYoVxAivkxCggHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "9d4ea4c8-01fc-4330-80f0-7d3436c07367",
+      "name": "Moussaka",
+      "cuisine": "Greek",
+      "country": "Greece",
+      "description": "Layered eggplant and meat with creamy béchamel topping.",
+      "more_info": "Moussaka is a classic Greek dish made with layered eggplant and meat, topped with a creamy béchamel sauce. It's often served with a side salad.",
+      "tags": [
+        "greek",
+        "baked",
+        "eggplant",
+        "meat",
+        "cheese"
+      ],
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.qA_MCQFoVI4rBm6rJueLVgHaG9?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "bf1026ce-d675-47c6-94d8-9625b17f1872",
+      "name": "Chicken Souvlaki",
+      "cuisine": "Greek",
+      "country": "Greece",
+      "description": "Grilled chicken skewers with tzatziki and pita bread.",
+      "more_info": "Chicken Souvlaki is a popular Greek dish made with grilled chicken skewers served with tzatziki and pita bread. It's often served with a side of fries or salad.",
+      "tags": [
+        "greek",
+        "grilled",
+        "chicken",
+        "skewer",
+        "tzatziki",
+        "pita"
+      ],
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.tmiqQtNcGsO92l1y4T59zAHaJQ?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "ade47224-f80b-4007-b3e4-42e693bca30f",
+      "name": "Greek Salad",
+      "cuisine": "Greek",
+      "country": "Greece",
+      "description": "Fresh tomatoes, cucumber, olives, and feta cheese.",
+      "more_info": "Greek Salad is a classic Greek dish made with fresh tomatoes, cucumber, olives, and feta cheese. It's often served with a side of pita bread.",
+      "tags": [
+        "greek",
+        "vegetarian",
+        "salad",
+        "fresh",
+        "cheese",
+        "tomato",
+        "cucumber"
+      ],
+      "imageUrl": "https://th.bing.com/th/id/R.dfec5dfd0cf0b7df1347c46235e812ba?rik=4unjKCiVcmnwhA&pid=ImgRaw&r=0",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "4e011a34-af65-4d9d-bfac-b056335acec3",
+      "name": "Baklava",
+      "cuisine": "Greek",
+      "country": "Greece",
+      "description": "Sweet phyllo pastry with honey and chopped nuts.",
+      "more_info": "Baklava is a classic Greek dessert made with sweet phyllo pastry layered with honey and chopped nuts. It's a rich and indulgent treat.",
+      "tags": [
+        "greek",
+        "dessert",
+        "sweet",
+        "nuts",
+        "honey",
+        "phyllo",
+        "pastry"
+      ],
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.USb085NT0p5ENKGlToC2uwHaFZ?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "266f3c28-a9e2-48c3-817d-1476acf34f5b",
+      "name": "Feijoada",
+      "cuisine": "Brazilian",
+      "country": "Brazil",
+      "description": "Hearty black bean stew with pork and beef.",
+      "more_info": "Feijoada is a classic Brazilian dish made with hearty black bean stew with pork and beef. It's often served with rice and collard greens.",
+      "tags": [
+        "brazilian",
+        "stew",
+        "beans",
+        "pork",
+        "meat"
+      ],
+      "imageUrl": "https://th.bing.com/th/id/R.4b3d0a800f04f8fdf76295d7cb56f57f?rik=lKiaJikP6mAm5A&pid=ImgRaw&r=0",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "a3d63d80-5f1a-49e3-b31e-d6636f72ed5d",
+      "name": "Picanha Steak",
+      "cuisine": "Brazilian",
+      "country": "Brazil",
+      "description": "Grilled top sirloin cap with coarse salt.",
+      "more_info": "Picanha Steak is a classic Brazilian dish made with grilled top sirloin cap seasoned with coarse salt. It's often served with a side of rice and beans.",
+      "tags": [
+        "brazilian",
+        "beef",
+        "grilled",
+        "steak",
+        "sirloin"
+      ],
+      "imageUrl": "https://tse1.explicit.bing.net/th/id/OIP.Xkx-XMniTDvoy_lXzUQ-zgHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "f67d0c7f-8803-4f30-b982-d18e8fa86069",
+      "name": "Pão de Queijo",
+      "cuisine": "Brazilian",
+      "country": "Brazil",
+      "description": "Cheesy Brazilian bread rolls, crispy outside and soft inside.",
+      "more_info": "Pão de Queijo is a popular Brazilian snack made with cheesy bread rolls that are crispy on the outside and soft on the inside. They're often served with coffee or tea.",
+      "tags": [
+        "brazilian",
+        "vegetarian",
+        "bread",
+        "cheese",
+        "snack",
+        "crispy"
+      ],
+      "imageUrl": "https://th.bing.com/th/id/R.329b3912f64bd9209b8e3e4382e34fee?rik=a8wvPt2qNtO6AA&pid=ImgRaw&r=0",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "a8842600-b981-41de-b4e2-2662e0008c7e",
+      "name": "Injera with Doro Wat",
+      "cuisine": "Ethiopian",
+      "country": "Ethiopia",
+      "description": "Spongy flatbread with spicy chicken stew.",
+      "more_info": "Injera with Doro Wat is a classic Ethiopian dish made with spongy flatbread served with spicy chicken stew. It's often served with a side of vegetables.",
+      "tags": [
+        "ethiopian",
+        "chicken",
+        "spicy",
+        "stew",
+        "flatbread"
+      ],
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.1Exqg00E-WIrLzUBg1ya5wHaDz?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "61e3bef8-9eae-4e86-8a0b-84fde8b4bb1f",
+      "name": "Kitfo",
+      "cuisine": "Ethiopian",
+      "country": "Ethiopia",
+      "description": "Seasoned raw minced beef with spiced butter.",
+      "more_info": "Kitfo is a traditional Ethiopian dish made with seasoned raw minced beef mixed with spiced butter. It's often served with injera bread.",
+      "tags": [
+        "ethiopian",
+        "beef",
+        "raw",
+        "spicy",
+        "butter"
+      ],
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.PO_TNnVq35APO_wbFOFdcwHaFj?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "2d2352ec-44d5-4424-9e8e-5b671356a22c",
+      "name": "Tibs",
+      "cuisine": "Ethiopian",
+      "country": "Ethiopia",
+      "description": "Sautéed meat with vegetables and aromatic spices.",
+      "more_info": "Tibs is a popular Ethiopian dish made with sautéed meat, vegetables, and aromatic spices. It's often served with injera bread.",
+      "tags": [
+        "ethiopian",
+        "meat",
+        "spicy",
+        "sauteed",
+        "vegetables",
+        "aromatic"
+      ],
+      "imageUrl": "https://th.bing.com/th/id/R.742cddde876e439143b91e546936319b?rik=348pkHCsan%2bvrw&pid=ImgRaw&r=0",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "34d11ea1-d15c-4c08-831c-5edbfef5a78e",
+      "name": "Turkish Kebab",
+      "cuisine": "Turkish",
+      "country": "Turkey",
+      "description": "Grilled seasoned meat on skewers with vegetables.",
+      "more_info": "Turkish Kebab is a popular dish made with grilled seasoned meat on skewers served with vegetables. It's often served with rice or flatbread.",
+      "tags": [
+        "turkish",
+        "grilled",
+        "meat",
+        "skewer",
+        "vegetables"
+      ],
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.qzLFYJcJhtW95STUl6tItAHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "a3bdc821-16ae-4b92-9fcd-7610c5899117",
+      "name": "Lahmacun",
+      "cuisine": "Turkish",
+      "country": "Turkey",
+      "description": "Thin flatbread topped with spiced minced meat.",
+      "more_info": "Lahmacun is a popular Turkish dish made with thin flatbread topped with spiced minced meat. It's often served with a side of salad or yogurt.",
+      "tags": [
+        "turkish",
+        "flatbread",
+        "meat",
+        "spicy"
+      ],
+      "imageUrl": "https://tse1.explicit.bing.net/th/id/OIP.SiwB9IbKZS9nubEG5rPfkgHaE7?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "84162504-5e38-44ae-ae51-fcf780369cf0",
+      "name": "Jerk Chicken",
+      "cuisine": "Caribbean",
+      "country": "Jamaica",
+      "description": "Spicy grilled chicken with allspice and Scotch bonnet peppers.",
+      "more_info": "Jerk Chicken is a popular Caribbean dish made with spicy grilled chicken seasoned with allspice and Scotch bonnet peppers. It's often served with rice and peas.",
+      "tags": [
+        "caribbean",
+        "chicken",
+        "grilled",
+        "spicy",
+        "pepper"
+      ],
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.bAGppZh8Tp-tO-DWhRmy2gHaE7?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "e7670a9a-7c04-4030-a217-9212ce99c836",
+      "name": "Fried Plantains",
+      "cuisine": "Caribbean",
+      "country": "Jamaica",
+      "description": "Sweet caramelized plantains, crispy and golden.",
+      "more_info": "Fried Plantains are a popular Caribbean side dish made with sweet caramelized plantains that are crispy and golden. They're often served with rice and beans.",
+      "tags": [
+        "caribbean",
+        "vegetarian",
+        "sweet",
+        "fried"
+      ],
+      "imageUrl": "https://i.pinimg.com/originals/a2/76/4a/a2764a1ceab86016359a05602d4a8740.jpg",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "bb54faf2-98de-4dde-9674-c1b936aa0309",
+      "name": "Moroccan Tagine",
+      "cuisine": "Moroccan",
+      "country": "Morocco",
+      "description": "Slow-cooked stew with lamb, vegetables, and warm spices.",
+      "more_info": "Moroccan Tagine is a classic dish made with slow-cooked stew featuring lamb, vegetables, and warm spices. It's often served with couscous or bread.",
+      "tags": [
+        "moroccan",
+        "stew",
+        "lamb",
+        "spices",
+        "vegetables"
+      ],
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.bfLrUQgNsm0SI8Np5whqFgHaLH?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "1ed39d1f-0f6c-4640-a731-09cdcc162b75",
+      "name": "Couscous",
+      "cuisine": "Moroccan",
+      "country": "Morocco",
+      "description": "Fluffy semolina with vegetables and aromatic broth.",
+      "more_info": "Couscous is a Moroccan dish made with fluffy semolina with vegetables and aromatic broth.",
+      "tags": [
+        "moroccan",
+        "vegetarian",
+        "grains",
+        "vegetables"
+      ],
+      "imageUrl": "https://i2.wp.com/hedihearts.com/wp-content/uploads/2015/04/cous-cous-1.jpg",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "f4b17a8d-3b6f-4284-92a5-5062d9d7c3d9",
+      "name": "Wiener Schnitzel",
+      "cuisine": "German",
+      "country": "Germany",
+      "description": "Breaded and fried veal cutlet with lemon.",
+      "more_info": "Wiener Schnitzel is a classic German dish made with breaded and fried veal cutlet with lemon. It's often served with a side of potatoes or salad.",
+      "tags": [
+        "german",
+        "fried",
+        "veal",
+        "crispy",
+        "bread"
+      ],
+      "imageUrl": "https://th.bing.com/th/id/R.442adfd285cacff31c78dd71695d586b?rik=DFGG3IygGmLXfQ&pid=ImgRaw&r=0",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "a344f508-eb2b-4e8a-985a-73bd45d9cff4",
+      "name": "Bratwurst",
+      "cuisine": "German",
+      "country": "Germany",
+      "description": "Grilled German sausage with mustard and bread.",
+      "more_info": "Bratwurst is a popular German dish made with grilled German sausage with mustard and bread. It's often served with potato salad.",
+      "tags": [
+        "german",
+        "sausage",
+        "grilled",
+        "pork",
+        "bread",
+        "mustard"
+      ],
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.2iu0Z5LmtOZWrtyHWOePZAHaLH?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "60523f38-2d42-4caa-983a-b9a484f72413",
+      "name": "Soft Pretzel",
+      "cuisine": "German",
+      "country": "Germany",
+      "description": "Warm salted pretzel with a golden brown crust.",
+      "more_info": "Soft Pretzel is a popular German dish made with a warm salted pretzel with a golden brown crust. It's often served with a side of mustard or ketchup.",
+      "tags": [
+        "german",
+        "vegetarian",
+        "bread",
+        "snack"
+      ],
+      "imageUrl": "https://th.bing.com/th/id/R.2f2656e1eaff2ca7a9542649e3416ab1?rik=qHkr0reaXdDF7Q&pid=ImgRaw&r=0",
+      "diet": {
+        "vegetarian": true
+      }
+    },
+    {
+      "id": "c28a5542-f92d-4097-8afe-08db58dc009a",
+      "name": "Nasi Goreng",
+      "cuisine": "Indonesian",
+      "country": "Indonesia",
+      "description": "Indonesian fried rice with sweet soy sauce and egg.",
+      "more_info": "Nasi Goreng is a popular Indonesian dish made with fried rice cooked with sweet soy sauce and topped with an egg. It's often served with a side of cucumber.",
+      "tags": [
+        "indonesian",
+        "rice",
+        "fried",
+        "egg",
+        "cucumber",
+        "soy_sauce"
+      ],
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.znFpL6C4h2Aqcs-WJZeRHAHaGP?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "06ce611a-07f5-4ca5-918f-27555463b57b",
+      "name": "Chicken Satay",
+      "cuisine": "Indonesian",
+      "country": "Indonesia",
+      "description": "Grilled chicken skewers with peanut sauce.",
+      "more_info": "Chicken Satay is a popular Indonesian dish made with grilled chicken skewers served with peanut sauce. It's often served with a side of rice or cucumber salad.",
+      "tags": [
+        "indonesian",
+        "chicken",
+        "grilled",
+        "peanuts",
+        "skewer"
+      ],
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.BKWGMmYcStwwrIiHiPuI2gHaLH?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    },
+    {
+      "id": "1d184d1f-e3f4-4c8a-99d5-b476f515c9c6",
+      "name": "Beef Rendang",
+      "cuisine": "Indonesian",
+      "country": "Indonesia",
+      "description": "Rich and tender coconut beef curry.",
+      "more_info": "Beef Rendang is a popular Indonesian dish made with rich and tender coconut beef curry. It's often served with a side of rice.",
+      "tags": [
+        "indonesian",
+        "beef",
+        "curry",
+        "coconut",
+        "spicy"
+      ],
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.ZSXeep4BQkf4aTq-7TD1VAHaHa?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3",
+      "diet": {
+        "vegetarian": false
+      }
+    }
+  ],
+  "restaurants": [
+    {
+      "id": "095f1f32-e4f8-44eb-aa52-85b84cc94ca7",
+      "name": "Spice Route",
+      "tagline": "Hyderabadi classics & street snacks",
+      "cuisines": [
+        "Indian"
+      ],
+      "rating": 4.7,
+      "deliveryFeeCents": 299,
+      "minOrderCents": 0,
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Indian_Delight_Restaurant_01.JPG"
+    },
+    {
+      "id": "2a33caef-fc62-499e-b585-06ae402e9905",
+      "name": "Mumbai Palace",
+      "tagline": "Authentic North Indian cuisine",
+      "cuisines": [
+        "Indian"
+      ],
+      "rating": 4.6,
+      "deliveryFeeCents": 249,
+      "minOrderCents": 0,
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.9l7Ye8x1Zg6715NkXtDh9AHaEK?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "6b9b2dd1-0d4c-46c4-bb59-a21827d71d92",
+      "name": "Lagos Kitchen",
+      "tagline": "West African comfort food",
+      "cuisines": [
+        "West African"
+      ],
+      "rating": 4.6,
+      "deliveryFeeCents": 399,
+      "minOrderCents": 0,
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Windows_Restaurant_in_SkyDomeRogersCentre.JPG"
+    },
+    {
+      "id": "9a84c593-33af-4c68-ae3a-936c68762fe3",
+      "name": "Trattoria Verde",
+      "tagline": "Wood-fired pizza & pasta",
+      "cuisines": [
+        "Italian"
+      ],
+      "rating": 4.8,
+      "deliveryFeeCents": 249,
+      "minOrderCents": 0,
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Interior_of_Trackside_Brick_Oven_Pizzeria,_December_2017.JPG"
+    },
+    {
+      "id": "f724a928-1994-4339-a175-fcd35670216a",
+      "name": "Bella Italia",
+      "tagline": "Traditional Italian recipes",
+      "cuisines": [
+        "Italian"
+      ],
+      "rating": 4.7,
+      "deliveryFeeCents": 299,
+      "minOrderCents": 0,
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.Fp6g2THyt8PLIPKW7ZRnxQHaE7?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "e9755c33-84f4-4a6f-bc74-5646da8b5a4d",
+      "name": "Sakura Express",
+      "tagline": "Sushi, ramen, and quick bowls",
+      "cuisines": [
+        "Japanese"
+      ],
+      "rating": 4.5,
+      "deliveryFeeCents": 349,
+      "minOrderCents": 0,
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Choshi-Maru_(Sushi_restaurants).JPG"
+    },
+    {
+      "id": "b840a96f-830c-4f38-9f2f-155d9ed5cd22",
+      "name": "Tokyo Nights",
+      "tagline": "Premium Japanese dining",
+      "cuisines": [
+        "Japanese"
+      ],
+      "rating": 4.8,
+      "deliveryFeeCents": 449,
+      "minOrderCents": 0,
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.nwdXnszYIfKKJSdqYETQRAHaFj?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "f97cf798-7fed-4c91-ade6-a95e5105c323",
+      "name": "Bangkok Street",
+      "tagline": "Thai street favorites",
+      "cuisines": [
+        "Thai"
+      ],
+      "rating": 4.4,
+      "deliveryFeeCents": 299,
+      "minOrderCents": 0,
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.Y7cQozYyIVEqJuTNrYlCRgHaFj?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "319e5c0e-087f-4bf4-8bd3-c27130eaa267",
+      "name": "Levant Bites",
+      "tagline": "Fresh wraps & mezze",
+      "cuisines": [
+        "Middle Eastern"
+      ],
+      "rating": 4.6,
+      "deliveryFeeCents": 299,
+      "minOrderCents": 0,
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Cafe_Central_in_Vienna_interior_near_portraits.JPG"
+    },
+    {
+      "id": "13df57b8-22be-480f-ad80-c74b939a848f",
+      "name": "Cedar House",
+      "tagline": "Lebanese & Middle Eastern specialties",
+      "cuisines": [
+        "Middle Eastern"
+      ],
+      "rating": 4.7,
+      "deliveryFeeCents": 349,
+      "minOrderCents": 0,
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.3eCCnKhHNiycqsa0FRdkQQHaFj?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "877add2b-8127-43f1-96e9-8f4592d4052f",
+      "name": "El Mercado Grill",
+      "tagline": "Tacos & Iberian rice dishes",
+      "cuisines": [
+        "Mexican",
+        "Spanish"
+      ],
+      "rating": 4.5,
+      "deliveryFeeCents": 349,
+      "minOrderCents": 0,
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Interior_Restaurant_Los_Caracoles_-_Barcelona_04.JPG"
+    },
+    {
+      "id": "85df3d26-e16a-4e5b-b36e-90a511ee0a7a",
+      "name": "Downtown Diner",
+      "tagline": "Burgers, comfort food, and classics",
+      "cuisines": [
+        "American",
+        "Global"
+      ],
+      "rating": 4.3,
+      "deliveryFeeCents": 199,
+      "minOrderCents": 0,
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/Restaurant_Vermeer_exterior.jpg"
+    },
+    {
+      "id": "b058ff84-7f64-4aa2-ab0e-08f35fa13f8a",
+      "name": "Fusion Hub",
+      "tagline": "Mix-and-match from around the world",
+      "cuisines": [
+        "Global"
+      ],
+      "rating": 4.4,
+      "deliveryFeeCents": 449,
+      "minOrderCents": 0,
+      "imageUrl": "https://commons.wikimedia.org/wiki/Special:FilePath/HK_Sai_Ying_Pun_Lin_Heung_Kui_restaurant_interior_n_visitors_Aug-2012.JPG"
+    },
+    {
+      "id": "9a937b74-322e-4d62-8962-bcb494e97ff3",
+      "name": "Chez Pierre",
+      "tagline": "Classic French bistro fare",
+      "cuisines": [
+        "French"
+      ],
+      "rating": 4.9,
+      "deliveryFeeCents": 499,
+      "minOrderCents": 0,
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.0DLsVQIac6s5MhSDsESTFgHaFq?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "22189e42-1a80-4320-a985-bcb43f4a2a0f",
+      "name": "Saigon Corner",
+      "tagline": "Vietnamese street food",
+      "cuisines": [
+        "Vietnamese"
+      ],
+      "rating": 4.6,
+      "deliveryFeeCents": 299,
+      "minOrderCents": 0,
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.N7kYQI1_4MNiK_lkOIGkbQHaGK?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "5a4283b2-3ead-4b57-b7c7-aa827f625c9b",
+      "name": "Pho House",
+      "tagline": "Authentic Vietnamese pho & more",
+      "cuisines": [
+        "Vietnamese"
+      ],
+      "rating": 4.5,
+      "deliveryFeeCents": 249,
+      "minOrderCents": 0,
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.AUPcHvrue4IZo6a9FeuqIAHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "3fe075be-2253-400b-b768-c9996d30b23d",
+      "name": "Athens Taverna",
+      "tagline": "Greek island cuisine",
+      "cuisines": [
+        "Greek"
+      ],
+      "rating": 4.7,
+      "deliveryFeeCents": 349,
+      "minOrderCents": 0,
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.evFtP_pcClvhyIU5bZ1DBQHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "0531155b-5ea8-4216-a54f-9aa8dc057df6",
+      "name": "Copacabana Grill",
+      "tagline": "Brazilian churrasco & classics",
+      "cuisines": [
+        "Brazilian"
+      ],
+      "rating": 4.8,
+      "deliveryFeeCents": 399,
+      "minOrderCents": 0,
+      "imageUrl": "https://tse3.mm.bing.net/th/id/OIP.DVrh4qcvANdB77lq7_zu4gHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "fc01425a-c51a-4608-aa4e-e1a5d69301ce",
+      "name": "Addis Flavors",
+      "tagline": "Ethiopian spices and traditions",
+      "cuisines": [
+        "Ethiopian"
+      ],
+      "rating": 4.5,
+      "deliveryFeeCents": 349,
+      "minOrderCents": 0,
+      "imageUrl": "https://i.pinimg.com/originals/9f/f9/9d/9ff99d19b9f9e37e151f70b29cdca0b1.jpg"
+    },
+    {
+      "id": "46e7af58-4219-4daf-980a-fb176dfe7926",
+      "name": "Istanbul Nights",
+      "tagline": "Turkish delights & kebabs",
+      "cuisines": [
+        "Turkish"
+      ],
+      "rating": 4.6,
+      "deliveryFeeCents": 329,
+      "minOrderCents": 0,
+      "imageUrl": "https://th.bing.com/th/id/R.12ac468a859f0c95d211b70521ab6cec?rik=fWrvu3Gx3CjF8g&riu=http%3a%2f%2farchitizer-prod.imgix.net%2fmedia%2fmediadata%2fuploads%2f1588615613600services_interior_design_hospitality_restaurant_s_61.jpg%3fw%3d1680%26q%3d60%26auto%3dformat%2ccompress%26cs%3dstrip&ehk=Xv4%2fwsMvUdpm0jVxoAfNv2NfWv0MtryejyZCOP0fx9Y%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "4ba6fc07-8f8d-46b0-8d9c-e339b0bf0456",
+      "name": "Caribbean Spice",
+      "tagline": "Island flavors and jerk specialties",
+      "cuisines": [
+        "Caribbean"
+      ],
+      "rating": 4.4,
+      "deliveryFeeCents": 349,
+      "minOrderCents": 0,
+      "imageUrl": "https://i.pinimg.com/736x/60/13/d5/6013d56a82e7aa7c8440f6d1e776a7b3.jpg"
+    },
+    {
+      "id": "d890b2a1-b77f-46fd-aa4b-6305d6d942fa",
+      "name": "Casablanca Cafe",
+      "tagline": "Moroccan tagines & couscous",
+      "cuisines": [
+        "Moroccan"
+      ],
+      "rating": 4.7,
+      "deliveryFeeCents": 379,
+      "minOrderCents": 0,
+      "imageUrl": "https://th.bing.com/th/id/R.6add4e5161fcbc66af63993ca5b5e803?rik=9RPa%2fq%2bl3c6lcw&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "a6297a07-1c6c-4630-b460-897a3856e55e",
+      "name": "Berlin Bites",
+      "tagline": "German sausages & schnitzel",
+      "cuisines": [
+        "German"
+      ],
+      "rating": 4.5,
+      "deliveryFeeCents": 299,
+      "minOrderCents": 0,
+      "imageUrl": "https://c8.alamy.com/comp/G31K32/berlin-germany-restaurants-bergmannstrasse-G31K32.jpg"
+    },
+    {
+      "id": "cfe19ef7-2bfe-4fe5-92dc-1201740b37a8",
+      "name": "Bali Bowl",
+      "tagline": "Indonesian favorites",
+      "cuisines": [
+        "Indonesian"
+      ],
+      "rating": 4.6,
+      "deliveryFeeCents": 329,
+      "minOrderCents": 0,
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.v3JAOSSzhXTtESmU37HmLQHaFU?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "77020ced-1160-429e-939d-c61cd0bfce0a",
+      "name": "Seoul Street",
+      "tagline": "Korean BBQ & bowls",
+      "cuisines": [
+        "Korean"
+      ],
+      "rating": 4.7,
+      "deliveryFeeCents": 349,
+      "minOrderCents": 0,
+      "imageUrl": "https://th.bing.com/th/id/R.eac5b3da4d29e03e6a430f562d323ec1?rik=5dJmQNR9EJuxdw&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "b826938d-2044-4644-8fc9-2f0043136bde",
+      "name": "Dragon Wok",
+      "tagline": "Chinese stir-fry & dim sum",
+      "cuisines": [
+        "Chinese"
+      ],
+      "rating": 4.5,
+      "deliveryFeeCents": 299,
+      "minOrderCents": 0,
+      "imageUrl": "https://tse1.mm.bing.net/th/id/OIP.OsQfS9GuxPuJll7rxfTMkAHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "f16231a2-778d-4661-ba3a-436ff609b958",
+      "name": "Tapas Bar Madrid",
+      "tagline": "Spanish small plates & paella",
+      "cuisines": [
+        "Spanish"
+      ],
+      "rating": 4.6,
+      "deliveryFeeCents": 329,
+      "minOrderCents": 0,
+      "imageUrl": "https://th.bing.com/th/id/R.ffc1f6442dc9b12b9d4f535993eb1510?rik=opJ%2fpqQMq%2fnkhA&pid=ImgRaw&r=0"
+    },
+    {
+      "id": "89245c80-ffde-478d-8e60-c5701b00cdf6",
+      "name": "Taco Fiesta",
+      "tagline": "Fresh Mexican street tacos",
+      "cuisines": [
+        "Mexican"
+      ],
+      "rating": 4.4,
+      "deliveryFeeCents": 249,
+      "minOrderCents": 0,
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.TarmOvZPIw8hSaPB7rtS0wHaFh?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "adeeeb8c-f9e5-4e55-b1e4-8d824878a91d",
+      "name": "Burger Shack",
+      "tagline": "Classic American burgers & fries",
+      "cuisines": [
+        "American"
+      ],
+      "rating": 4.3,
+      "deliveryFeeCents": 199,
+      "minOrderCents": 0,
+      "imageUrl": "https://tse2.mm.bing.net/th/id/OIP.xCnFqDRo__nhda13vMhOzwHaE8?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    },
+    {
+      "id": "d3604abb-0b4f-4379-bc4f-d7d433076743",
+      "name": "Noodle Station",
+      "tagline": "Pan-Asian noodles & soups",
+      "cuisines": [
+        "Thai",
+        "Chinese",
+        "Vietnamese"
+      ],
+      "rating": 4.5,
+      "deliveryFeeCents": 279,
+      "minOrderCents": 0,
+      "imageUrl": "https://tse4.mm.bing.net/th/id/OIP.18ZDwDZl9s6rphxgy2YVlwHaE7?cb=ucfimg2&ucfimg=1&rs=1&pid=ImgDetMain&o=7&rm=3"
+    }
+  ],
+  "menus": [
+    {
+      "restaurantId": "095f1f32-e4f8-44eb-aa52-85b84cc94ca7",
+      "items": [
+        {
+          "foodId": "2e0e94a4-6acd-4f80-a0b7-690b9c4595d5",
+          "priceCents": 1499,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "d19a0e59-8e52-4fcb-bf14-c6f0b21d3acc",
+          "priceCents": 1399,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "4f3a896b-7bbe-4017-bedb-36e8adf64f63",
+          "priceCents": 999,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "725ed627-8554-4ece-836b-a02200b929c4",
+          "priceCents": 499,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "171f54af-50b9-49df-a1a8-d5fc34338ae6",
+          "priceCents": 1199,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "2a33caef-fc62-499e-b585-06ae402e9905",
+      "items": [
+        {
+          "foodId": "2e0e94a4-6acd-4f80-a0b7-690b9c4595d5",
+          "priceCents": 1699,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "d19a0e59-8e52-4fcb-bf14-c6f0b21d3acc",
+          "priceCents": 1299,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "171f54af-50b9-49df-a1a8-d5fc34338ae6",
+          "priceCents": 1099,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "4f3a896b-7bbe-4017-bedb-36e8adf64f63",
+          "priceCents": 899,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "6b9b2dd1-0d4c-46c4-bb59-a21827d71d92",
+      "items": [
+        {
+          "foodId": "acf8f3b2-e3a5-431a-9568-419cc496f8b4",
+          "priceCents": 1199,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "7ab039a5-9c7e-4fc0-865a-ff73c4181928",
+          "priceCents": 999,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "723f2cf9-2f7d-451f-a7de-7af7bb6b8695",
+          "priceCents": 1299,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "2e767fc8-7d2b-4627-bec5-d83bcba8b555",
+          "priceCents": 499,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "9a84c593-33af-4c68-ae3a-936c68762fe3",
+      "items": [
+        {
+          "foodId": "c1ee52b8-c13d-40b1-b694-a645380f65d1",
+          "priceCents": 1299,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "b78b7565-4d76-4bb1-853e-930140d20d4d",
+          "priceCents": 1499,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "183f6933-7049-4c85-ba36-19fabe900c39",
+          "priceCents": 1599,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "e5b4a283-c601-4520-817d-cd9aeec6fd6c",
+          "priceCents": 699,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "f724a928-1994-4339-a175-fcd35670216a",
+      "items": [
+        {
+          "foodId": "c1ee52b8-c13d-40b1-b694-a645380f65d1",
+          "priceCents": 1399,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "183f6933-7049-4c85-ba36-19fabe900c39",
+          "priceCents": 1699,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "2dc32ad3-d787-461e-bfbc-678b12b394e7",
+          "priceCents": 1499,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "b78b7565-4d76-4bb1-853e-930140d20d4d",
+          "priceCents": 1399,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "e5b4a283-c601-4520-817d-cd9aeec6fd6c",
+          "priceCents": 749,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "e9755c33-84f4-4a6f-bc74-5646da8b5a4d",
+      "items": [
+        {
+          "foodId": "88016e17-ad66-4bc3-af68-73e5424609d2",
+          "priceCents": 1899,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "fe972da1-adce-4c90-b270-54d6d980561f",
+          "priceCents": 1399,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "86278356-7a53-4fec-96ef-21d7329d17a6",
+          "priceCents": 1299,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "b840a96f-830c-4f38-9f2f-155d9ed5cd22",
+      "items": [
+        {
+          "foodId": "88016e17-ad66-4bc3-af68-73e5424609d2",
+          "priceCents": 2199,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "a2482afc-5ae0-4d98-af37-f34288dbeeed",
+          "priceCents": 1699,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "fe972da1-adce-4c90-b270-54d6d980561f",
+          "priceCents": 1499,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "86278356-7a53-4fec-96ef-21d7329d17a6",
+          "priceCents": 1399,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "f97cf798-7fed-4c91-ade6-a95e5105c323",
+      "items": [
+        {
+          "foodId": "de28e67c-6392-4a87-a99e-90506f005113",
+          "priceCents": 1199,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "957bf6dd-2566-4ef9-b525-9de6845b63eb",
+          "priceCents": 1299,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "0838fe98-f8c2-4ab7-ba4e-40451ec9bd3b",
+          "priceCents": 1099,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "319e5c0e-087f-4bf4-8bd3-c27130eaa267",
+      "items": [
+        {
+          "foodId": "fa3ebf28-ebcd-447f-aac9-9af7e879d526",
+          "priceCents": 949,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "3c9caa5a-0827-4389-abf2-abe40702e0e7",
+          "priceCents": 1099,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "1b334ac5-4d7e-41ed-b87d-5eada9626f0d",
+          "priceCents": 699,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "13df57b8-22be-480f-ad80-c74b939a848f",
+      "items": [
+        {
+          "foodId": "3c9caa5a-0827-4389-abf2-abe40702e0e7",
+          "priceCents": 1199,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "fa3ebf28-ebcd-447f-aac9-9af7e879d526",
+          "priceCents": 899,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "1b334ac5-4d7e-41ed-b87d-5eada9626f0d",
+          "priceCents": 649,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "4e011a34-af65-4d9d-bfac-b056335acec3",
+          "priceCents": 599,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "877add2b-8127-43f1-96e9-8f4592d4052f",
+      "items": [
+        {
+          "foodId": "d57cec36-2b84-469e-b683-dea6e3a09efe",
+          "priceCents": 999,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "e626230f-379c-476f-9170-a53f32585ac3",
+          "priceCents": 1699,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "6d9a339c-445a-4330-be1a-270f804e2e81",
+          "priceCents": 599,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "85df3d26-e16a-4e5b-b36e-90a511ee0a7a",
+      "items": [
+        {
+          "foodId": "b2b08ada-d482-4534-af97-644a91a2d063",
+          "priceCents": 1099,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "82bd801e-8628-4b46-b8fb-b761c0f46dfa",
+          "priceCents": 799,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "c1ee52b8-c13d-40b1-b694-a645380f65d1",
+          "priceCents": 1399,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "de28e67c-6392-4a87-a99e-90506f005113",
+          "priceCents": 1299,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "e5b4a283-c601-4520-817d-cd9aeec6fd6c",
+          "priceCents": 749,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "b058ff84-7f64-4aa2-ab0e-08f35fa13f8a",
+      "items": [
+        {
+          "foodId": "2e0e94a4-6acd-4f80-a0b7-690b9c4595d5",
+          "priceCents": 1599,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "acf8f3b2-e3a5-431a-9568-419cc496f8b4",
+          "priceCents": 1299,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "88016e17-ad66-4bc3-af68-73e5424609d2",
+          "priceCents": 1999,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "c0c037ae-57d5-4447-a30f-c63a97ccc450",
+          "priceCents": 1399,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "ca6c9bd2-619c-4481-a9b4-868df7c7b0e3",
+          "priceCents": 1299,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "3c9caa5a-0827-4389-abf2-abe40702e0e7",
+          "priceCents": 1049,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "9a937b74-322e-4d62-8962-bcb494e97ff3",
+      "items": [
+        {
+          "foodId": "65d7ce6d-ee92-49c3-b874-613461ca0764",
+          "priceCents": 499,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "741abb2e-dedd-4edc-8a6e-014c5b603002",
+          "priceCents": 1599,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "36de7d5d-9825-40c9-a963-52a570fd2463",
+          "priceCents": 899,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "ce1dad02-c3e3-4d3f-9b6e-5ea60fa1531f",
+          "priceCents": 1899,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "22189e42-1a80-4320-a985-bcb43f4a2a0f",
+      "items": [
+        {
+          "foodId": "f5c94a15-eefa-41b6-9542-c72140de76dc",
+          "priceCents": 1199,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "385abd19-1e0b-4202-b572-fd9c0ba9d551",
+          "priceCents": 899,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "80ad8d9c-22a3-4b65-b555-4bd82c3584c2",
+          "priceCents": 799,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "5a4283b2-3ead-4b57-b7c7-aa827f625c9b",
+      "items": [
+        {
+          "foodId": "f5c94a15-eefa-41b6-9542-c72140de76dc",
+          "priceCents": 1099,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "385abd19-1e0b-4202-b572-fd9c0ba9d551",
+          "priceCents": 799,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "80ad8d9c-22a3-4b65-b555-4bd82c3584c2",
+          "priceCents": 699,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "3fe075be-2253-400b-b768-c9996d30b23d",
+      "items": [
+        {
+          "foodId": "9d4ea4c8-01fc-4330-80f0-7d3436c07367",
+          "priceCents": 1499,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "bf1026ce-d675-47c6-94d8-9625b17f1872",
+          "priceCents": 1299,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "ade47224-f80b-4007-b3e4-42e693bca30f",
+          "priceCents": 899,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "4e011a34-af65-4d9d-bfac-b056335acec3",
+          "priceCents": 649,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "0531155b-5ea8-4216-a54f-9aa8dc057df6",
+      "items": [
+        {
+          "foodId": "266f3c28-a9e2-48c3-817d-1476acf34f5b",
+          "priceCents": 1699,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "a3d63d80-5f1a-49e3-b31e-d6636f72ed5d",
+          "priceCents": 2199,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "f67d0c7f-8803-4f30-b982-d18e8fa86069",
+          "priceCents": 599,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "fc01425a-c51a-4608-aa4e-e1a5d69301ce",
+      "items": [
+        {
+          "foodId": "a8842600-b981-41de-b4e2-2662e0008c7e",
+          "priceCents": 1399,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "61e3bef8-9eae-4e86-8a0b-84fde8b4bb1f",
+          "priceCents": 1599,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "2d2352ec-44d5-4424-9e8e-5b671356a22c",
+          "priceCents": 1299,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "46e7af58-4219-4daf-980a-fb176dfe7926",
+      "items": [
+        {
+          "foodId": "34d11ea1-d15c-4c08-831c-5edbfef5a78e",
+          "priceCents": 1299,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "a3bdc821-16ae-4b92-9fcd-7610c5899117",
+          "priceCents": 999,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "4e011a34-af65-4d9d-bfac-b056335acec3",
+          "priceCents": 699,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "4ba6fc07-8f8d-46b0-8d9c-e339b0bf0456",
+      "items": [
+        {
+          "foodId": "84162504-5e38-44ae-ae51-fcf780369cf0",
+          "priceCents": 1399,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "e7670a9a-7c04-4030-a217-9212ce99c836",
+          "priceCents": 599,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "d890b2a1-b77f-46fd-aa4b-6305d6d942fa",
+      "items": [
+        {
+          "foodId": "bb54faf2-98de-4dde-9674-c1b936aa0309",
+          "priceCents": 1599,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "1ed39d1f-0f6c-4640-a731-09cdcc162b75",
+          "priceCents": 1199,
+          "isAvailable": true,
+          "popular": true
+        }
+      ]
+    },
+    {
+      "restaurantId": "a6297a07-1c6c-4630-b460-897a3856e55e",
+      "items": [
+        {
+          "foodId": "f4b17a8d-3b6f-4284-92a5-5062d9d7c3d9",
+          "priceCents": 1499,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "food_brain_worurst",
+          "priceCents": 1099,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "60523f38-2d42-4caa-983a-b9a484f72413",
+          "priceCents": 449,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "cfe19ef7-2bfe-4fe5-92dc-1201740b37a8",
+      "items": [
+        {
+          "foodId": "c28a5542-f92d-4097-8afe-08db58dc009a",
+          "priceCents": 1199,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "06ce611a-07f5-4ca5-918f-27555463b57b",
+          "priceCents": 999,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "1d184d1f-e3f4-4c8a-99d5-b476f515c9c6",
+          "priceCents": 1499,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "77020ced-1160-429e-939d-c61cd0bfce0a",
+      "items": [
+        {
+          "foodId": "ca6c9bd2-619c-4481-a9b4-868df7c7b0e3",
+          "priceCents": 1399,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "2931d97e-8da0-4f79-a2f7-d687608e3587",
+          "priceCents": 499,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "b826938d-2044-4644-8fc9-2f0043136bde",
+      "items": [
+        {
+          "foodId": "c0c037ae-57d5-4447-a30f-c63a97ccc450",
+          "priceCents": 1299,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "135dc106-85c9-4d09-b39e-746037d328f7",
+          "priceCents": 1199,
+          "isAvailable": true,
+          "popular": true
+        }
+      ]
+    },
+    {
+      "restaurantId": "f16231a2-778d-4661-ba3a-436ff609b958",
+      "items": [
+        {
+          "foodId": "624d3d18-e61f-4d89-a52d-db6add8a3577",
+          "priceCents": 1499,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "e626230f-379c-476f-9170-a53f32585ac3",
+          "priceCents": 1799,
+          "isAvailable": true,
+          "popular": true
+        }
+      ]
+    },
+    {
+      "restaurantId": "89245c80-ffde-478d-8e60-c5701b00cdf6",
+      "items": [
+        {
+          "foodId": "d57cec36-2b84-469e-b683-dea6e3a09efe",
+          "priceCents": 899,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "6d9a339c-445a-4330-be1a-270f804e2e81",
+          "priceCents": 549,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "adeeeb8c-f9e5-4e55-b1e4-8d824878a91d",
+      "items": [
+        {
+          "foodId": "b2b08ada-d482-4534-af97-644a91a2d063",
+          "priceCents": 999,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "82bd801e-8628-4b46-b8fb-b761c0f46dfa",
+          "priceCents": 699,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    },
+    {
+      "restaurantId": "d3604abb-0b4f-4379-bc4f-d7d433076743",
+      "items": [
+        {
+          "foodId": "de28e67c-6392-4a87-a99e-90506f005113",
+          "priceCents": 1099,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "f5c94a15-eefa-41b6-9542-c72140de76dc",
+          "priceCents": 1149,
+          "isAvailable": true,
+          "popular": true
+        },
+        {
+          "foodId": "fe972da1-adce-4c90-b270-54d6d980561f",
+          "priceCents": 1249,
+          "isAvailable": true,
+          "popular": false
+        },
+        {
+          "foodId": "135dc106-85c9-4d09-b39e-746037d328f7",
+          "priceCents": 1099,
+          "isAvailable": true,
+          "popular": false
+        }
+      ]
+    }
+  ]
+}
