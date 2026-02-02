@@ -130,8 +130,8 @@ The app will be available at `http://localhost:5173` (or the next available port
 Food Recommendation App uses a **graph-based recommendation system** powered by Neo4j. Here's how it works:
 
 ### Graph Schema
+<img width="380" height="343" alt="n1" src="https://github.com/user-attachments/assets/73a7fb2c-11d9-48a0-b953-22f4c8e5b5c1" />
 
-<img width="380" height="343" alt="Screenshot 2025-12-23 183237" src="https://github.com/user-attachments/assets/7ac6529c-6840-408f-892e-06c7a5cf0ed9" />
 
 ### Relationships Explained
 
@@ -232,25 +232,7 @@ For a real-world deployment, you should:
 
 ## Screenshots
 
-### 1. Landing Page
-
-   <img width="944" height="437" alt="Screenshot 2025-12-23 175531" src="https://github.com/user-attachments/assets/4218280b-8d35-4673-8bfc-e75318038f90" />
-
-### 2. For You Section
-
-   <img width="941" height="440" alt="Screenshot 2025-12-23 175636" src="https://github.com/user-attachments/assets/9113f0ef-f926-43c8-b64b-392f0cb9ba14" />
-
-### 3. Restaurant Page
-
-   <img width="938" height="441" alt="Screenshot 2025-12-23 175925" src="https://github.com/user-attachments/assets/9173f957-bbd9-475a-aa52-947c8be01831" />
-
-### 4. User Cart Page
-
-   <img width="941" height="443" alt="Screenshot 2025-12-23 175837" src="https://github.com/user-attachments/assets/e764c477-20b9-45c7-b423-c3fd98d00d83" />
-
-### 5. About Me Page
-
-   <img width="941" height="439" alt="Screenshot 2026-01-08 105729" src="https://github.com/user-attachments/assets/225ec95f-01d7-409b-a1cc-6ba4efd45ca8" />
-   <img width="941" height="439" alt="Screenshot 2026-01-08 105827" src="https://github.com/user-attachments/assets/63b8e36a-2961-40d1-bdf2-84172d5d3b55" />
-   <img width="945" height="440" alt="Screenshot 2026-01-08 105914" src="https://github.com/user-attachments/assets/df931b7c-41fc-49b4-ba80-e6ef87abc57b" />
+<img width="944" height="437" alt="n2" src="https://github.com/user-attachments/assets/bdc6ed16-50b3-45b1-a7ce-5682e117f6ba" />
+<img width="941" height="440" alt="n3" src="https://github.com/user-attachments/assets/c5bbe6d5-4d5a-41b5-a7b1-4c2ace60380c" />
+<img width="798" height="353" alt="n4" src="https://github.com/user-attachments/assets/bc7a51e3-ed62-4635-a309-d712162145a5" />
 
